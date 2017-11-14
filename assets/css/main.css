@@ -3673,3 +3673,11 @@
 			}
 
 	}
+
+.panel.spotlight.right .content  p{
+	text-indent: 2em;
+}
+.panel.banner .content h1.major{
+	font-size: 24px;
+	font-weight:normal;
+}
