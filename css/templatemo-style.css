@@ -564,3 +564,8 @@ h3.profile-title {
 #footer p.copyright-text a:hover {
   color: #6cc0f7;
 }
+
+h4.widget-title{
+  font-size: 22px;
+  color: blue;
+}
